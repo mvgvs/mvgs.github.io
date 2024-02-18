@@ -1,5 +1,7 @@
 # Match breakdown
-
+- [Jacob](#jacob)
+  - [Foot Sweep](#foot-sweep)
+  - 
 - [Adam](#adam)
   - [Guard pull og armbar mulighet](#guard-pull-og-armbar-mulighet)
   - [Butterfly Passering](#butterfly-passering)
@@ -18,6 +20,20 @@
   - [Reis deg](#reis-deg)
   - [Re-guard](#re-guard)
   - [Half Guard](#half-guard)
+
+## Jacob
+
+### Foot Sweep
+
+Du må fjerne grepet på hodet her. Han bruker det og at du lener mye av vekten din over på venstre foot til å sett opp en sweep. (Dårlig coaching av meg her ettersom jeg hører i lydklippet at jeg oppfordreg deg til å gå for snap her, sorry !)
+![](gifs/jacobfootsweep.gif)
+
+
+### Guard Recovery
+
+Du må få inn det nederste kneet her. Slik som du gjør det senere i klippet når du roterer rundt til den andre siden.
+
+![](gifs/jacobguardrecovery.gif)
 
 ## Adam
 
