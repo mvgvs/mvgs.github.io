@@ -1,5 +1,8 @@
 # Match breakdown
 
+- [Adam](#adam)
+  - [Butterfly Passering](#butterfly-passering)
+  - [Underhook fra half guard](#underhook-fra-half-guard)
 - [Magnus Groa](#magnus-groa)
   - [Guillotine forsøk](#guillotine-forsøk)
   - [Gripe muligheten for ashi / x-guard](#gripe-muligheten-for-ashi--x-guard)
@@ -12,6 +15,35 @@
   - [Reis deg](#reis-deg)
   - [Re-guard](#re-guard)
   - [Half Guard](#half-guard)
+
+## Adam
+
+### Butterfly Passering
+
+Fjerne hodekontroll, og force half guard. Ser ut som du prøvde på det, men litt uforsiktig med armen her mtp at han har hodekontroll (motstander kunne ha satt opp en triangle om han hadde mer erfaring).
+
+![](gifs/adambutterflypassattempt.gif)
+
+GPS passering i lignende situasjon
+
+![](gifs/gsppass.gif)
+
+
+### Underhook fra half guard
+
+Du må komme deg lengre ned mot beina hans ved å skyva armen dfin over skulderen. I tilleg må du passe på å frame crossfacen 
+
+![](gifs/adamunderhook.gif)
+
+Slik som Noguiera gjør her:
+
+![](gifs/noguierahalfguard.gif)
+
+Mtp at han hadde en dyp crossface kan det hende at vi skal jobbe med den her: 
+
+![](gifs/danaherhalfguardrecovery.gif)
+
+https://youtube.com/shorts/hr3dwjwjacU?si=91uUkxo22v5jxz86
 
 ## Magnus Groa
 
