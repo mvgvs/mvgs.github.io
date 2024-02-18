@@ -35,6 +35,21 @@ Du må få inn det nederste kneet her. Slik som du gjør det senere i klippet n�
 
 ![](gifs/jacobguardrecovery.gif)
 
+
+### Kimura Escape/Counter
+
+Fin armbar escape først her, motstander bruker det til å sette opp en kimura. Når du forsvarer kimura gir det han en mulighet til å sette opp triangle.
+
+![](gifs/jacobkimuratotriangle.gif)
+
+Her kunne du har rullet gjennom for å fjerne presset eller kontrekt med armbar slik Matt Hughes gjorde på GSP:
+
+![](gifs/matthughesgspcounter.gif)
+
+For å escape side triangle må du "hente helen" med armen som er fri. Som vist av gordon nedenfor:
+
+![](gifs/sidetriangleescapegordon.gif)
+
 ## Adam
 
 ### Guard pull og armbar mulighet
