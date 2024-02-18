@@ -18,6 +18,17 @@
 
 ## Adam
 
+### Guard pull og armbar mulighet
+
+For ivrig på half guard pull her. Du puller når han har 100% kontroll på overkroppn din så alt han trenger for å passere er å steppe ut. 
+
+![](gifs/adamguardpullforsokarmbarmulighet.gif)
+
+
+Det var og en mulighet for en armbar her om du hadde rotert med høyre kne inn mot motstander. Slik som Brian Glick viser her:
+
+![](gifs/glickarmbar.gif)
+
 ### Butterfly Passering
 
 Fjerne hodekontroll, og force half guard. Ser ut som du prøvde på det, men litt uforsiktig med armen her mtp at han har hodekontroll (motstander kunne ha satt opp en triangle om han hadde mer erfaring).
