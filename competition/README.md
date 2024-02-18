@@ -1,7 +1,8 @@
 # Match breakdown
 - [Jacob](#jacob)
   - [Foot Sweep](#foot-sweep)
-  - 
+  - [Guard Recovery](#guard-recovery)
+  - [Kimura Escape/Counter](#kimura-escapecounter)
 - [Adam](#adam)
   - [Guard pull og armbar mulighet](#guard-pull-og-armbar-mulighet)
   - [Butterfly Passering](#butterfly-passering)
