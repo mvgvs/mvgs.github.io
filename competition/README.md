@@ -5,7 +5,13 @@
   - [Gripe muligheten for ashi / x-guard](#gripe-muligheten-for-ashi--x-guard)
   - [Uchi mata](#uchi-mata)
   - [Grapevine Escape forsøk](#grapevine-escape-forsøk)
-
+  - [Guillotine Escape](#grapevine-escape-forsøk)
+  - [Kimura takedown counter](#kimura-takedown-counter)
+  - [Mer bestem](#mer-bestem)
+  - [Full guard til x-guard](#full-guard-til-x-guard)
+  - [Reis deg](#reis-deg)
+  - [Re-guard](#re-guard)
+  - [Half Guard](#half-guard)
 
 ## Magnus Groa
 
