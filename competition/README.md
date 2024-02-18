@@ -1,5 +1,10 @@
 # Match breakdown
 
+- [Magnus Groa](#magnus-groa)
+  - [Guillotine forsøk](#guillotine-forsøk)
+  - [Gripe muligheten for ashi / x-guard](#gripe-muligheten-for-ashi--x-guard)
+  - [Uchi mata](#uchi-mata)
+
 ## Magnus Groa
 
 ### Guillotine forsøk
