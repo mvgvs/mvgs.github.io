@@ -4,6 +4,8 @@
   - [Guillotine forsøk](#guillotine-forsøk)
   - [Gripe muligheten for ashi / x-guard](#gripe-muligheten-for-ashi--x-guard)
   - [Uchi mata](#uchi-mata)
+  - [Grapevine Escape forsøk](#grapevine-escape-forsøk)
+
 
 ## Magnus Groa
 
