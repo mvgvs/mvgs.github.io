@@ -119,7 +119,7 @@ Slik som marcello i situp escapen.
 
 ### Half guard
 
-Fin setup av underhook her, men når du poster opp på den måten gjør du hodet tilgjenglig for guillotines og darce. 
+Fin setup av underhook her, men når du poster opp på den måten og "stikker ut" hodet er du åpen for guillotines og darce. 
 
 Istedenfor å poste burde du gå for "leg scoop"
 
@@ -128,3 +128,7 @@ Istedenfor å poste burde du gå for "leg scoop"
 Som Gordon gjør her
 
 ![](gifs/legscoopgordon.gif)
+
+Evt kunne du ha kontret med en knee lever direkte som her (kan gjøres når de setter opp darce og, men dette klippet var nærmeste jeg kom):
+
+![](gifs/kneelevergroa.gif)
