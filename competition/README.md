@@ -1,8 +1,11 @@
 # Match breakdown
 
 - [Adam](#adam)
+  - [Guard pull og armbar mulighet](#guard-pull-og-armbar-mulighet)
   - [Butterfly Passering](#butterfly-passering)
   - [Underhook fra half guard](#underhook-fra-half-guard)
+  - [Arm triangle escape](#arm-triangle-esacpe)
+  - [Mount Escape](#mount-escape)
 - [Magnus Groa](#magnus-groa)
   - [Guillotine forsøk](#guillotine-forsøk)
   - [Gripe muligheten for ashi / x-guard](#gripe-muligheten-for-ashi--x-guard)
@@ -28,6 +31,28 @@ For ivrig på half guard pull her. Du puller når han har 100% kontroll på over
 Det var og en mulighet for en armbar her om du hadde rotert med høyre kne inn mot motstander. Slik som Brian Glick viser her:
 
 ![](gifs/glickarmbar.gif)
+
+
+### Arm triangle esacpe
+
+God frame på hoften her, men når du forsøker å gå i bro blir det mer som en hipthrust hvor du holder statisk. 
+
+![](gifs/adamarmtriangleescapeattempt.gif)
+
+Du må gå i bro (ofte flere ganger) for å få motstander i ubalanse slik at de poster og  du kan få inn albuen igjen. Eksempel på gordon ryan som gjør det her:
+
+![](gifs/gordonkatagatame.gif)
+
+
+### Mount Escape
+
+Veldig bra mount escape forsøk her, ser ut som han roterer hoftene rett før du klarer å få inn ashi garami. Bare mer drilling så sitter den. Du reagrer veldig bra og bytter til en footdrag escape. For å fullføre den må du rotere hoftene inn mot motstander slik at kneet hans løftes fra bakken og du kan skyve det inn i halfguard igjen.
+
+![](gifs/adammountescape.gif)
+
+Danaher eksempel her:
+
+![](gifs/danaherfootdragescape.gif)
 
 ### Butterfly Passering
 
