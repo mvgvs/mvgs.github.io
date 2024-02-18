@@ -27,6 +27,10 @@ For ivrig på half guard pull her. Du puller når han har 100% kontroll på over
 
 ![](gifs/adamguardpullforsokarmbarmulighet.gif)
 
+Eksempel på half guard pull med lucas leite:
+
+![](gifs/lucasleitehalfguardpull.gif)
+
 
 Det var og en mulighet for en armbar her om du hadde rotert med høyre kne inn mot motstander. Slik som Brian Glick viser her:
 
