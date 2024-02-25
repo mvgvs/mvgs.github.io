@@ -1,4 +1,10 @@
 # Match breakdown
+- [Sindre](#sindre)
+  - [Head & Arm Escape](#head--arm-escape)
+  - [Single lef defence](#single-leg-defence)
+  - [Vurdere overhook kast](#vurdere-overhook-kast)
+  - [Mulighet for guillotine evt triangle](#mulighet-for-guillotine-evt-triangle)
+  - [Half guard top](#half-guard-top)
 - [Jacob](#jacob)
   - [Foot Sweep](#foot-sweep)
   - [Guard Recovery](#guard-recovery)
@@ -21,6 +27,61 @@
   - [Reis deg](#reis-deg)
   - [Re-guard](#re-guard)
   - [Half Guard](#half-guard)
+
+## Sindre
+
+### Head & Arm Escape
+
+Bra frame på hoften, men du må gå i bro for å få motstander ut av balanse så du kan få armen din ned igjen.
+
+![](gifs/sindreheadnarm.gif)
+
+slik som her
+
+![](gifs/gordonkatagatame.gif)
+
+### Single leg defence
+Her har du mulighet til å forsvare med sumi gaeshi
+![](gifs/sindresinglelegdefense.gif)
+som her f.eks
+![](gifs/danahersumigaeshisingleleg.gif)
+
+### Vurdere overhook kast
+
+Veldig pent kast, men som du ser er det realtivt stor risiko for at motstander tar ryggen din evt kommer seg til topp.
+
+![](gifs/sindrekast.gif)
+
+Samme problem her:
+
+![](gifs/sindrekast2.gif)
+
+Om du får en overhook i stedet er det mindre risiko for at motstander tar ryggen. Eksempel på det samme fra UFC
+
+![](gifs/ufcjudokast.gif)
+
+Eksempel på hvordan overhook kan "løse problemet"
+
+![](gifs/overhookkastufc.gif)
+
+### Mulighet for guillotine evt triangle
+
+Her hadde du god mulighet for guillotine i starten. Du kunne og satt opp en back triangle fra turtle her. Du har vekten litt for lang frem her, derfor sklir du relativt lett av.
+
+![](gifs/guillotinemissedbacktakesindre.gif)
+
+Eksempel på triangle fra ryggen. Fant desverre ikke et som er identisk til posisjonen dere er i her.
+
+![](gifs/danaherbacktriangle.gif)
+
+Det var og en mulighet for å sette opp en triangle når du var i inverted guard (istedet for å skyve bort mostander). Eksempel her:
+
+![](gifs/ryanhallinvertedtriangle.gif)
+
+### Half Guard top
+Du gjør en veldig bra jobb med å flate han ut her i første omgang, men du burde gått for crossface istedenfor crossframe (som han skyver bort) her.
+
+![](gifs/sindrehalfguardtop.gif)
 
 ## Jacob
 
