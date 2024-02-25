@@ -41,9 +41,13 @@ slik som her
 ![](gifs/gordonkatagatame.gif)
 
 ### Single leg defence
+
 Her har du mulighet til å forsvare med sumi gaeshi
+
 ![](gifs/sindresinglelegdefense.gif)
+
 som her f.eks
+
 ![](gifs/danahersumigaeshisingleleg.gif)
 
 ### Vurdere overhook kast
@@ -79,6 +83,7 @@ Det var og en mulighet for å sette opp en triangle når du var i inverted guard
 ![](gifs/ryanhallinvertedtriangle.gif)
 
 ### Half Guard top
+
 Du gjør en veldig bra jobb med å flate han ut her i første omgang, men du burde gått for crossface istedenfor crossframe (som han skyver bort) her.
 
 ![](gifs/sindrehalfguardtop.gif)
